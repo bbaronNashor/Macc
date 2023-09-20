@@ -1,0 +1,30 @@
+[
+  {
+    "id" : "Busker1",
+    "name" : "Busker1",
+    "image" : "Busker1",
+    "latitude" : 37.557192,
+    "longitude" : 126.925381
+  },
+  {
+    "id" : "Busker2",
+    "name" : "Busker2",
+    "image" : "Busker2",
+    "latitude" : 37.557777,
+    "longitude" : 126.925536
+  },
+  {
+    "id" : "Busker3",
+    "name" : "Busker3",
+    "image" : "Busker3",
+    "latitude" : 37.557282,
+    "longitude" : 126.926091
+  },
+  {
+    "id" : "Busker4",
+    "name" : "Busker4",
+    "image" : "Busker4",
+    "latitude" : 37.557892,
+    "longitude" : 126.924338
+  }
+]

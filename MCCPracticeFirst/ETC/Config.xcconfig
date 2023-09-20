@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  MCCPracticeFirst
+//
+//  Created by Kimjaekyeong on 2023/09/18.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = 6e52254618fa40440733e25d5b76a6bb
